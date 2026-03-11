@@ -15,7 +15,7 @@ export function App() {
             className={`sidebar__link ${activePage === "tasks" ? "is-active" : ""}`}
             onClick={() => setActivePage("tasks")}
           >
-            Minhas Tarefas
+            Minhas Tarefas 3
           </button>
           <button
             type="button"
